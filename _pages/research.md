@@ -44,3 +44,5 @@ Financial regulation has led banks to increase their equity ratios. Yet, several
 We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bonds issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5\% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Despite the extent of the relief and the significant conditions attached to it, the market perception is that relieved countries remain riskier.
 
 #### *Presentations at: Copenhagen Business School, BI Oslo (online)\*, ESADE Business School(online)\*, EFA Annual Meeting 2020 (online)\**
+
+#### *\* presented by co-authors*
