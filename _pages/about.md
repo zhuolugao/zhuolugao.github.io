@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Finance at Copenhagen Business School. I will be on the academic job market during the year 2024-25.
+I am a 4th year PhD candidate in Finance at Copenhagen Business School.
 
 Research interests: Financial Intermediation, Credit Risk, and Empirical Asset Pricing.
 
