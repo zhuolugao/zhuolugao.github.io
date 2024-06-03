@@ -21,7 +21,7 @@ repository               : "zhuolugao/zhuolugao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhuolu.png"
+  avatar           : "zhuolu.jpg"
   name             : "Zhuolu Gao"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Finance at Copenhagen Business School"
