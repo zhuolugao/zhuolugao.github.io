@@ -23,7 +23,7 @@ This suggests a value creation from bank lending activities.
 I reproduce the loan premium using a sample of loans with matched bond quotes and arrive at a loan premium ranging from 90-140 bps. To examine the source of the premium, I estimate the effects of a U.S. court ruling in 2014, which shook up the market's expectation and largely disincentivized out-of-court restructurings. Following the ruling, I find that the more affected firms experience a dramatic decrease in the loan premium by 40-140 bps, due to a reduced likelihood of out-of-court restructurings and therefore a diminished potential for avoiding bankruptcy costs. 
 In addition, I show that a minor portion of the loan premium is indeed compensation for the prepayment flexibility embedded in the loan contracts.
 
-#### *Presentations at: Nordic Finance Network PhD Workshop 2024*
+#### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS 2024*
 
 
 ---
