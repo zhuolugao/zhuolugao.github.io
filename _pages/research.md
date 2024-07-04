@@ -32,16 +32,16 @@ In addition, I show that a minor portion of the loan premium is indeed compensat
 
 [**Bank Equity Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345088) (coauthored with Jens Dick-Nielsen and David Lando)
 
-Financial regulation has led banks to increase their equity ratios. Yet, several studies find that this has not led to a decrease in bank equity risk. We show theoretically, that keeping less capital in excess of the minimum capital requirement can outweigh the risk-reducing effect on equity of increased total capitalization. Empirically, we find that excess capitalization is a significant determinant of equity risk, and can explain why bank equity risk has not become lower after the Great Financial Crisis. Smaller excess capitalization also leads to decreases in market-to-book ratios. Lower leverage has, however, reduced the cost of bank debt.
+Financial regulation has led banks to increase their equity ratios. Yet several studies find that this has not led to a decrease in bank equity risk. We show theoretically, that holding less capital in excess of the minimum capital requirement can outweigh the risk-reducing effect of increased total capitalization on equity. Using times series data and a natural deregulation experiment we find that excess capitalization is a significant determinant of equity risk, and can explain why bank equity risk has not become lower after the Global Financial Crisis. Lower leverage has, however, reduced the cost of bank debt.
 
-#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich*
+#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, Deloitte, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich*
 
 
 <br/>
 
 [**Forgiven but not forgotten: Emerging market credit spreads following debt relief**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578758) (coauthored with Mikkel Vittrup Hauerberg, David Lando and Aleksander Koldborg Tetzlaff)
 
-We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bonds issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5\% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Despite the extent of the relief and the significant conditions attached to it, the market perception is that relieved countries remain riskier.
+We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bond issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Markets seem to rationally anticipate a deterioration in the credit quality of relieved countries.
 
 #### *Presentations at: Copenhagen Business School, BI Oslo (online)\*, ESADE Business School(online)\*, EFA Annual Meeting 2020 (online)\**
 
