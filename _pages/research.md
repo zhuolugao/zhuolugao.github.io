@@ -17,11 +17,7 @@ author_profile: true
 **Disentangling the loan premium: The value of bank lending**
 (Draft upon request by email)
 
-Schwert (2020) shows that firms who borrow from both banks and the corporate bond market pay a substantial premium on bank loans. This has questioned firms' bargaining power and banks' competition in the loan market.
-In this paper, I show that a large portion of the bank loan premium can be explained as a payment to bank lenders for facilitating an out-of-court restructuring.
-This suggests a value creation from bank lending activities.
-I reproduce the loan premium using a sample of loans with matched bond quotes and arrive at a loan premium ranging from 90-140 bps. To examine the source of the premium, I estimate the effects of a U.S. court ruling in 2014, which shook up the market's expectation and largely disincentivized out-of-court restructurings. Following the ruling, I find that the more affected firms experience a dramatic decrease in the loan premium by 40-140 bps, due to a reduced likelihood of out-of-court restructurings and therefore a diminished potential for avoiding bankruptcy costs. 
-In addition, I show that a minor portion of the loan premium is indeed compensation for the prepayment flexibility embedded in the loan contracts.
+Schwert (2020) shows that firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of the bank loan premium can be explained as a payment to bank lenders for facilitating out-of-court restructurings. This suggests a value creation from bank lending activities. Using a sample of loans matched with bond quotes, I estimate a loan premium of around 95 bps. I examine the effect of a U.S. court ruling in 2014 that disrupted market expectations and disincentivized out-of-court restructurings. Following the ruling, more affected firms experience a dramatic decrease in the loan premium by 70-90 bps, due to fewer restructuring opportunities and diminished potential for avoiding bankruptcy costs. Additionally, I show that a minor portion of the premium compensates for the prepayment flexibility in the loan contracts.
 
 #### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024*
 
