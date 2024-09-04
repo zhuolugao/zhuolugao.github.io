@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD candidate in Finance at Copenhagen Business School.
+I am a 5th year PhD candidate in Finance at Copenhagen Business School.
 
-Research interests: Financial Intermediation, Credit Risk, and Empirical Asset Pricing.
+Research interests: Financial Intermediation, Credit Risk, and Corporate Finance.
+
+I will be on the academic job market 2024/25.
 
 [Curriculum Vitae](/files/cv_zhuolu_gao.pdf)
 
