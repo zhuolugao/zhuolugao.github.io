@@ -11,6 +11,11 @@ redirect_from:
 
 You can see my CV [here](/files/cv_zhuolu_gao.pdf).
 
-<embed src="{{ site.baseurl }}/files/cv_zhuolu_gao.pdf" width="800" height="700" type='application/pdf'>
+<embed 
+  src="{{ site.baseurl }}/files/cv_zhuolu_gao.pdf" 
+  width="800" 
+  height="700" 
+  type='application/pdf'
+/>
 
 
