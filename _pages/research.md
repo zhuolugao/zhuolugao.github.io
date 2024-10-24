@@ -41,4 +41,4 @@ We examine yield spreads of government debt issues from countries that have rece
 
 #### *Presentations at: Copenhagen Business School, BI Oslo (online)\*, ESADE Business School(online)\*, EFA Annual Meeting 2020 (online)\**
 
-#### *\*presented by co-authors, &#8224 scheduled*
+#### * \*presented by co-authors, † scheduled*
