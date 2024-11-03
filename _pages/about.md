@@ -9,9 +9,11 @@ redirect_from:
 
 I am a 5th year PhD candidate in Finance at Copenhagen Business School.
 
-Research interests: Financial Intermediation, Credit Risk, and Corporate Finance.
+Research interests: Financial Intermediation, Corporate Finance, and Credit Risk Modeling.
 
-I will be on the academic job market 2024/25.
+I will be on the 2024/25 academic job market.
+
+I will be available for interviews at the AFA conference in San Francisco from 3 to 5 January 2025.
 
 [Curriculum Vitae](/files/cv_zhuolu_gao.pdf)
 
