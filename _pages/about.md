@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 5th year PhD candidate in Finance at Copenhagen Business School.
 
-Research interests: Financial Intermediation, Corporate Finance, and Credit Risk Modeling.
+Research interests: Financial Intermediation, Empirical Corporate Finance, and Credit Risk Modeling.
 
 I will be on the 2024/25 academic job market.
 
@@ -22,7 +22,7 @@ I will be available for interviews at the AFA conference in San Francisco from 3
 
 ## Job Market Paper
 
-**Disentangling the loan premium: The value of bank lending**
+**Disentangling the Loan Premium: The Value of Bank Lending**
 (Draft upon request by email)
 
 
@@ -30,5 +30,5 @@ I will be available for interviews at the AFA conference in San Francisco from 3
 
 [**Bank Equity Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345088) (coauthored with Jens Dick-Nielsen and David Lando)
 
-[**Forgiven but not forgotten: Emerging market credit spreads following debt relief**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578758) (coauthored with Mikkel Vittrup Hauerberg, David Lando and Aleksander Koldborg Tetzlaff)
+[**Forgiven but Not Forgotten: Emerging Market Credit Spreads Following Debt Relief**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578758) (coauthored with Mikkel Vittrup Hauerberg, David Lando and Aleksander Koldborg Tetzlaff)
 
