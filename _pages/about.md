@@ -15,7 +15,7 @@ I will be on the 2024/25 academic job market.
 
 I will be available for interviews at the AFA conference in San Francisco from 3 to 5 January 2025.
 
-[Curriculum Vitae](/files/cv_zhuolu_gao.pdf)
+[Curriculum Vitae](/files/CV_ZhuoluGao.pdf)
 
 
 <br/>

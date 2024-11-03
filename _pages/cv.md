@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-You can see my CV [here](/files/cv_zhuolu_gao.pdf).
+You can see my CV [here](/files/CV_ZhuoluGao.pdf).
 
 <!-- <embed 
-  src="{{ site.baseurl }}/files/cv_zhuolu_gao.pdf" 
+  src="{{ site.baseurl }}/files/CV_ZhuoluGao.pdf" 
   width="800" 
   height="1060" 
   type='application/pdf'
@@ -20,10 +20,10 @@ You can see my CV [here](/files/cv_zhuolu_gao.pdf).
 
 <div class="pdf-container">
   <iframe 
-    src="{{ site.baseurl }}/files/cv_zhuolu_gao.pdf" 
+    src="{{ site.baseurl }}/files/CV_ZhuoluGao.pdf" 
     frameborder="0">
     <p>
-      <a href="{{ site.baseurl }}/files/cv_zhuolu_gao.pdf">Download the PDF</a> 
+      <a href="{{ site.baseurl }}/files/CV_ZhuoluGao.pdf">Download the PDF</a> 
     </p>
   </iframe>
 </div>
