@@ -22,8 +22,8 @@ I will be available for interviews at the AFA conference in San Francisco from 3
 
 ## Job Market Paper
 
-**Disentangling the Loan Premium: The Value of Bank Lending**
-(Draft upon request by email)
+[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](/files/JMP_ZhuoluGao.pdf)
+
 
 
 ## Working Papers
