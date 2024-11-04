@@ -14,10 +14,9 @@ author_profile: true
 
 ## Job Market Paper
 
-**Disentangling the Loan Premium: The Value of Bank Lending**
-(Draft upon request by email)
+[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](/files/JMP_ZhuoluGao.pdf)
 
-Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, as shown by Schwert (2020), raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I re-estimate the loan premium and use a 2014 U.S. court ruling, which largely impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
+Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, as shown by Schwert (2020), raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I re-estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
 
 
 #### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop†, AFA poster 2025†*
