@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 5th year PhD candidate in Finance at Copenhagen Business School.
 
-Research interests: Financial Intermediation, Empirical Corporate Finance, and Credit Risk Modeling.
+Research interests: Financial Intermediation, Credit Risk Modeling, Empirical Corporate Finance.
 
 I will be on the 2024/25 academic job market.
 
