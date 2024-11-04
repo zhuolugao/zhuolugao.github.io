@@ -21,7 +21,7 @@ Firms borrowing from both banks and the corporate bond market pay a substantial 
 
 #### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop†, AFA poster 2025†*
 
-(Formerly titled: Disentangling the Loan Premium: The Value of Bank Lending)
+#### *(Formerly titled: Disentangling the Loan Premium: The Value of Bank Lending)*
 
 
 ---
