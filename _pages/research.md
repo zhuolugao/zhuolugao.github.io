@@ -19,7 +19,7 @@ author_profile: true
 Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
 
 
-#### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop†, AFA poster 2025†*
+#### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop, AFA poster 2025, WFA 2025†*
 
 #### *(Formerly titled: Disentangling the Loan Premium: The Value of Bank Lending)*
 
@@ -32,7 +32,7 @@ Firms borrowing from both banks and the corporate bond market pay a substantial 
 
 Financial regulation has led banks to increase their equity ratios. Yet several studies find that this has not led to a decrease in bank equity risk. We show theoretically, that holding less capital in excess of the minimum capital requirement can outweigh the risk-reducing effect of increased total capitalization on equity. Using times series data and a natural deregulation experiment we find that excess capitalization is a significant determinant of equity risk, and can explain why bank equity risk has not become lower after the Global Financial Crisis. Lower leverage has, however, reduced the cost of bank debt.
 
-#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, Deloitte\*, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich*
+#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, Deloitte\*, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich, Bank of England\*†*
 
 
 <br/>
