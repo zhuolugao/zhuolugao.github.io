@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in Finance at Frankfurt School of Finance & Management.
+I am a Postdoctoral Researcher in Finance at Frankfurt School of Finance & Management.
 
 Research interests: Financial Intermediation, Credit Risk Modeling, Empirical Corporate Finance.
 
