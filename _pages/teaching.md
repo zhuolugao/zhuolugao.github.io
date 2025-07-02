@@ -13,5 +13,5 @@ author_profile: true
 
 **Quantitative Methods (Masters)**, 2021, 2022, 2023, 2024, Dr. Kasper Lund-Jensen and Prof. Søren Wengel Mogensen.
 
-**Master's thesis supervision**, 2024.
+**Master's thesis supervision**, 2024, 2025.
 
