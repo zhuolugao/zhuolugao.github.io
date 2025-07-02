@@ -7,26 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in Finance at Copenhagen Business School.
+I am a postdoctoral researcher in Finance at Frankfurt School of Finance & Management.
 
 Research interests: Financial Intermediation, Credit Risk Modeling, Empirical Corporate Finance.
-
-I will be on the 2024/25 academic job market.
-
-Upcoming conferences: WFA 2025
 
 [Curriculum Vitae](/files/CV_ZhuoluGao.pdf)
 
 
 <br/>
 
-## Job Market Paper
-
-[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](/files/JMP_ZhuoluGao.pdf)
-
-
-
 ## Working Papers
+[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](/files/JMP_ZhuoluGao.pdf)
 
 [**Bank Equity Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345088) (coauthored with Jens Dick-Nielsen and David Lando)
 
