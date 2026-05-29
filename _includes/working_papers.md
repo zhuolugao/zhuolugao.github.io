@@ -1,4 +1,10 @@
-[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](/files/JMP_ZhuoluGao.pdf)
+[**The On-the-Run Discount**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6842898)(coauthored with Sven Klingler)
+
+Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
+
+#### *Presentations at: Copenhagen Business School, Frankfurt School of Finance & Management*
+
+[**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535058)
 
 Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
 
