@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Researcher in Finance at Frankfurt School of Finance & Management.
 
-Research interests: Financial Intermediation, Credit Risk Modeling, Empirical Corporate Finance.
+Research interests: Empirical Asset Pricing, Financial Intermediation, Credit Risk.
 
 [Curriculum Vitae](/files/CV_ZhuoluGao.pdf)
 
