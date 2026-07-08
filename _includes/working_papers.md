@@ -2,7 +2,7 @@
 
 The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrary to this phenomenon, we document that Treasury bills trade at an on-the-run discount. This discount arises because Treasury bills become more attractive to traders as they age. The age and available supply of a Treasury bill are two key drivers of both its borrowing cost in the repo market and its yield. Price-sensitive investors respond to the discount, but their investments are insufficient to correct it. The Treasury could have saved up to $25.6 billion in issuance costs if it were able to finance itself at off-the-run yields. 
 
-#### *Presentations at: Copenhagen Business School, Frankfurt School of Finance & Management*
+#### *Presentations at: Copenhagen Business School, Frankfurt School of Finance & Management, FMA European Conference 2026, Aarhus Finance Forum 2026†, NFA Annual Meeting 2026†, FMA Annual Meeting 2026\*†*
 
 <br/>
 
@@ -23,7 +23,7 @@ Firms borrowing from both banks and the corporate bond market pay a substantial 
 
 Financial regulation has led banks to increase their equity ratios. Yet several studies find that this has not led to a decrease in bank equity risk. We show theoretically, that holding less capital in excess of the minimum capital requirement can outweigh the risk-reducing effect of increased total capitalization on equity. Using times series data and a natural deregulation experiment we find that excess capitalization is a significant determinant of equity risk, and can explain why bank equity risk has not become lower after the Global Financial Crisis. Lower leverage has, however, reduced the cost of bank debt.
 
-#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, Deloitte\*, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich, Bank of England\**
+#### *Presentations at: Aalto\*, Aarhus University\*, Bloomberg\*, Copenhagen Business School, CICF 2023, Danish Finance Institute\*, Deloitte\*, European Central Bank\*, European Banking Authority\*, EFA Annual Meeting 2023\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich, Bank of England\*, Luiss Finance Workshop 2026\**
 
 
 <br/>

@@ -16,6 +16,12 @@ Research interests: Empirical Asset Pricing, Financial Intermediation, Credit Ri
 
 <br/>
 
+## News and Updates
+
+{% include news.md %}
+
+<br/>
+
 ## Working Papers
 
 {% capture wp %}{% include working_papers.md %}{% endcapture %}
