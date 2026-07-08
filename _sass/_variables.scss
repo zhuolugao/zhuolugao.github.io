@@ -46,7 +46,12 @@ $type-size-8                : 0.625em;  // ~10px
 $masthead-height            : 70px;
 
 /* Sidebar properties */
-$sidebar-screen-min-width   : 1024px;
+/* Expressed in em (64em = 1024px at default font size) so this breakpoint scales
+   with the browser's font size in lockstep with the em-based grid breakpoint
+   ($large). Using a literal px here opened a band under browser zoom / larger
+   default fonts where the sidebar went position:fixed before the content column
+   was reserved, overlapping the text. */
+$sidebar-screen-min-width   : 64em;
 $sidebar-link-max-width     : 250px;
 
 
