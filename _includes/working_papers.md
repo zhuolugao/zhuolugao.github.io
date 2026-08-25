@@ -11,9 +11,9 @@ The on-the-run premium is one of the most widely studied phenomena in fixed-inco
 Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
 
 
-#### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop, AFA poster 2025, WFA 2025*
+#### ***Award: The Brattle Group Ph.D. Candidate Awards For Outstanding Research***
 
-#### *Award: The Brattle Group Ph.D. Candidate Awards For Outstanding Research*
+#### *Presentations at: Nordic Finance Network PhD Workshop 2024, FIRS PhD Session 2024, Tri-City Day-Ahead Workshop 2024, SFI PhD Workshop, BIGFI Research Retreat, NFN Young Scholars Workshop, AFA poster 2025, WFA 2025*
 
 #### *(Formerly titled: Disentangling the Loan Premium: The Value of Bank Lending)*
 
@@ -33,7 +33,7 @@ Financial regulation has led banks to increase their equity ratios. Yet several 
 
 We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bond issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Markets seem to rationally anticipate a deterioration in the credit quality of relieved countries.
 
-#### *R&R at: Journal of Money, Credit and Banking*
+#### ***R&R at: Journal of Money, Credit and Banking***
 
 #### *Presentations at: Copenhagen Business School, BI Oslo (online)\*, ESADE Business School(online)\*, EFA Annual Meeting 2020 (online)\**
 
