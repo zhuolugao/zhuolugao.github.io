@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher in Finance at Frankfurt School of Finance & Manag
 
 Research interests: Empirical Asset Pricing, Financial Intermediation, Credit Risk.
 
-[Curriculum Vitae](/files/CV_ZhuoluGao.pdf?v=20260729)
+[Curriculum Vitae](/files/CV_ZhuoluGao.pdf?v=20260825)
 
 
 <br/>
@@ -30,6 +30,10 @@ Research interests: Empirical Asset Pricing, Financial Intermediation, Credit Ri
 <br/>
 
 ## Discussions
+
+**Intraday Price Pressure and Order Flow around US Treasury Auctions** [[Slides]({{ site.baseurl }}/files/Discussion_EFA.pdf)]
+
+**Multimarket Contact and the Cost of Trading Corporate Bonds** [[Slides]({{ site.baseurl }}/files/Discussion_AarhusFF.pdf)]
 
 **Information Asymmetry in Cyber Insurance Markets** [[Slides]({{ site.baseurl }}/files/Discussion_CyberInsurance.pdf)]
 
