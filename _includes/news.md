@@ -35,15 +35,11 @@
 
 <ul class="news-list">
   <li>
-    <span class="news-date">Aug 2–4</span>
-    <span class="news-item">I will present <em>The On-the-Run Discount</em> at the <strong>Aarhus Finance Forum 2026</strong>.</span>
+    <span class="news-date">2026–27</span>
+    <span class="news-item">I will be on the <strong>2026–27 Academic Job Market</strong>.</span>
   </li>
   <li>
-    <span class="news-date">Aug 20–22</span>
-    <span class="news-item">I will discuss at the <strong>2026 EFA Annual Meeting</strong> in Ghent, Belgium.</span>
-  </li>
-  <li>
-    <span class="news-date">Sep 25–27</span>
-    <span class="news-item">I will present at the <strong>2026 NFA Annual Meeting</strong> in Quebec City, Canada.</span>
+    <span class="news-date">Sep 2026</span>
+    <span class="news-item">Our paper <em>The On-the-Run Discount</em> won the <strong>Best Paper Award in Asset Pricing</strong> at the NFA Annual Meeting in Quebec City.</span>
   </li>
 </ul>

@@ -17,7 +17,6 @@ author_profile: true
 
 
 ---
-## Working Papers
 
 {% capture wp %}{% include working_papers.md %}{% endcapture %}
 {{ wp | markdownify }}
