@@ -19,7 +19,7 @@ Firms borrowing from both banks and the corporate bond market pay a substantial 
 
 #### **Award: The Brattle Group Ph.D. Candidate Awards For Outstanding Research**
 
-#### *Presentations at: AFA poster 2025, BIGFI Research Retreat, Erasmus School of Economics, FIRS PhD Session 2024, Fudan University, Nordic Finance Network PhD Workshop 2024, NFN Young Scholars Workshop, SFI PhD Workshop, Shanghai Advanced Institute of Finance, Tri-City Day-Ahead Workshop 2024, WFA 2025*
+#### *Presentations at: AFA poster 2025, BIGFI, Erasmus School of Economics, FIRS 2024, Fudan University, Nordic Finance Network PhD Workshop 2024, NFN Young Scholars Workshop, SFI PhD Workshop, Shanghai Advanced Institute of Finance, Tri-City Day-Ahead Workshop 2024, WFA 2025*
 
 #### *(Formerly titled: Disentangling the Loan Premium: The Value of Bank Lending)*
 
