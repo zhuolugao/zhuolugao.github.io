@@ -74,3 +74,12 @@
     padding-bottom: 100%; /* 1:1 Aspect Ratio */
   }
 }
+
+/* Align long-form prose, including paper abstracts, on both margins. */
+.archive p,
+.page__content p {
+  text-align: justify;
+  text-justify: inter-word;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
