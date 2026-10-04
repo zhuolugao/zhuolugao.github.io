@@ -40,6 +40,6 @@
   </li>
   <li>
     <span class="news-date">Sep 2026</span>
-    <span class="news-item">Our paper <em>The On-the-Run Discount</em> won the <strong>Best Paper Award in Asset Pricing</strong> at the NFA Annual Meeting in Quebec City.</span>
+    <span class="news-item">Our paper <em>The On-the-Run Discount</em> won the <strong>Best Paper Award in Asset Pricing</strong> at the 2026 NFA Annual Conference in Quebec City.</span>
   </li>
 </ul>
