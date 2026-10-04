@@ -4,7 +4,7 @@
 
 The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrary to this phenomenon, we document that the most recently issued (on-the-run) Treasury bills trade at a *discount* relative to older bills of comparable maturities. We link this *on-the-run discount* to auction reopenings and short sellers’ preference for seasoned bills. The preference arises because short sellers can cover their positions with newly auctioned bills. In line with this mechanism, short-selling demand increases as a bill ages and explains up to 67% of the variation in the on-the-run discount. Price-sensitive investors respond to the discount, but their investments are insufficient to correct it.
 
-#### **Award: NFA Best Paper Award in Asset Pricing**
+#### **Award: NFA 2026 Best Paper Award in Asset Pricing**
 
 #### *Presentations at: Aarhus Finance Forum 2026, Armenian Economic Association Conference 2026\*, Bundesbank\*, Copenhagen Business School, FMA Annual Meeting 2026\*†, FMA European Conference 2026, Frankfurt School of Finance & Management, NFA Annual Meeting 2026*
 
