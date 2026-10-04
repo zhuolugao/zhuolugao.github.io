@@ -37,9 +37,9 @@ Financial regulation has led banks to increase their equity ratios. Yet several 
 
 [**Forgiven but Not Forgotten: Emerging Market Credit Spreads Following Debt Relief**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4578758) (coauthored with Mikkel Vittrup Hauerberg, David Lando and Aleksander Koldborg Tetzlaff)
 
-We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bond issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Markets seem to rationally anticipate a deterioration in the credit quality of relieved countries.
-
 #### **R&R at: Journal of Money, Credit and Banking**
+
+We examine yield spreads of government debt issues from countries that have received large-scale debt relief through the Heavily Indebted Poor Countries (HIPC) program and the Multilateral Debt Relief Initiative (MDRI). Using data from more than 3,000 bond issues and after controlling for macroeconomic, political, and geographical factors, we find that HIPC governments pay an average yield spread premium of close to 1.5% on USD-denominated and non-USD-denominated bonds compared to similar countries which have not received relief. Markets seem to rationally anticipate a deterioration in the credit quality of relieved countries.
 
 #### *Presentations at: BI Oslo (online)\*, Copenhagen Business School, EFA Annual Meeting 2020 (online)\*, ESADE Business School (online)\**
 
