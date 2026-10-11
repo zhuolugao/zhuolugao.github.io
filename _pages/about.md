@@ -9,9 +9,9 @@ redirect_from:
 
 I am a Postdoctoral Researcher in Finance at Frankfurt School of Finance & Management. I obtained my Ph.D. in Finance from Copenhagen Business School.
 
-Research interests: Empirical Asset Pricing, Financial Intermediation, Credit Risk.
+Research Interests: Empirical Asset Pricing, Financial Intermediation, Fixed Income and Credit Markets.
 
-[Curriculum Vitae](/files/CV_ZhuoluGao.pdf?v=20261004-4)
+[Curriculum Vitae](/files/CV_ZhuoluGao.pdf?v=20261011-1)
 
 
 <br/>
