@@ -2,11 +2,11 @@
 
 [**The On-the-Run Discount**]({{ site.baseurl }}/files/GaoKlingler_OnTheRunDiscount.pdf?v=20260917) (coauthored with Sven Klingler)
 
-The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrary to this phenomenon, we document that the most recently issued (on-the-run) Treasury bills trade at a *discount* relative to older bills of comparable maturities. We link this *on-the-run discount* to auction reopenings and short sellers’ preference for seasoned bills. The preference arises because short sellers can cover their positions with newly auctioned bills. In line with this mechanism, short-selling demand increases as a bill ages and explains up to 67% of the variation in the on-the-run discount. Price-sensitive investors respond to the discount, but their investments are insufficient to correct it.
+The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrasting with this phenomenon, we document that the most recently issued (on-the-run) Treasury bills trade at a *discount* relative to older bills of comparable maturities. We link this *on-the-run discount* to short sellers’ preference for seasoned bills, driven by the regular and predictable reopening auctions of Treasury bills. Borrowing demand for Treasury bills increases as they age and explains up to 71% of the variation in the on-the-run discount. The on-the-run discount affects the measurement of Treasury convenience premiums and the portfolio allocations of Money Market Mutual Funds (MMFs).
 
 #### **Award: NFA 2026 Best Paper Award in Asset Pricing**
 
-#### *Presentations at: Aarhus Finance Forum 2026, Armenian Economic Association Conference 2026\*, Bundesbank\*, Copenhagen Business School, FMA Annual Meeting 2026\*†, FMA European Conference 2026, Frankfurt School of Finance & Management, NFA Annual Meeting 2026*
+#### *Presentations at: Aarhus Finance Forum 2026, Armenian Economic Association Conference 2026\*, Bundesbank\*, Copenhagen Business School, FMA Annual Meeting 2026\*, FMA European Conference 2026, Frankfurt School of Finance & Management, NFA Annual Meeting 2026*
 
 <br/>
 
@@ -27,9 +27,9 @@ Firms borrowing from both banks and the corporate bond market pay a substantial 
 
 [**Bank Equity Risk**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4345088) (coauthored with Jens Dick-Nielsen and David Lando)
 
-Financial regulation has led banks to increase their equity ratios. Yet several studies find that this has not led to a decrease in bank equity risk. We show theoretically, that holding less capital in excess of the minimum capital requirement can outweigh the risk-reducing effect of increased total capitalization on equity. Using times series data and a natural deregulation experiment we find that excess capitalization is a significant determinant of equity risk, and can explain why bank equity risk has not become lower after the Global Financial Crisis. Lower leverage has, however, reduced the cost of bank debt.
+Bank leverage has fallen since the Global Financial Crisis, yet bank equity risk has remained high. We develop a model that combines franchise value with separate regulatory buffer and resolution boundaries and decomposes equity risk into franchise-value and regulatory-boundary components. Empirically, banks closer to the buffer have higher equity volatility, beta, and implied cost of equity, even after controlling for leverage and market-to-book. This relation becomes stronger as banks approach the buffer. We also find that debt risk is more closely related to the resolution boundary than to the buffer boundary. Thus, equity and debt respond to different regulatory thresholds.
 
-#### *Presentations at: Aalto\*, Aarhus University\*, Bank of England\*, Bloomberg\*, CICF 2023, Copenhagen Business School, Danish Finance Institute\*, Deloitte\*, EFA Annual Meeting 2023\*, European Banking Authority\*, European Central Bank\*, Luiss Finance Workshop 2026\*, New York Fed\*, Norges Bank, Swedish House of Finance, University of Zurich*
+#### *Presentations at: Aalto\*, Aarhus University\*, Bank of England\*, Bloomberg\*, CICF 2023, Copenhagen Business School, Danish Finance Institute\*, Deloitte\*, EFA Annual Meeting 2023\*, European Banking Authority\*, European Central Bank\*, Luiss Finance Workshop 2026\*, New York Fed\*, NHH, Norges Bank, Swedish House of Finance, University of Zurich*
 
 
 <br/>
@@ -43,4 +43,4 @@ We examine yield spreads of government debt issues from countries that have rece
 
 #### *Presentations at: BI Oslo (online)\*, Copenhagen Business School, EFA Annual Meeting 2020 (online)\*, ESADE Business School (online)\**
 
-#### *\* presented by co-authors, † scheduled*
+#### *\* presented by co-authors*
