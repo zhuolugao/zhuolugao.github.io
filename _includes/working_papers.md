@@ -1,6 +1,6 @@
 ## Job Market Paper
 
-[**The On-the-Run Discount**]({{ site.baseurl }}/files/GaoKlingler_OnTheRunDiscount.pdf?v=20260917) (coauthored with Sven Klingler)
+[**The On-the-Run Discount**]({{ site.baseurl }}/files/JMP_Gao.pdf?v=20261025) (coauthored with Sven Klingler)
 
 The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrasting with this phenomenon, we document that the most recently issued (on-the-run) Treasury bills trade at a *discount* relative to older bills of comparable maturities. We link this *on-the-run discount* to short sellers’ preference for seasoned bills, driven by the regular and predictable reopening auctions of Treasury bills. Borrowing demand for Treasury bills increases as they age and explains up to 71% of the variation in the on-the-run discount. The on-the-run discount affects the measurement of Treasury convenience premiums and the portfolio allocations of Money Market Mutual Funds (MMFs).
 
@@ -14,7 +14,7 @@ The on-the-run premium is one of the most widely studied phenomena in fixed-inco
 
 [**Why Do Firms Pay More for Bank Loans? The Role of Renegotiation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535058)
 
-Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 U.S. court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
+Firms borrowing from both banks and the corporate bond market pay a substantial premium on bank loans, raising questions about firms' bargaining power and banks' competition. In this paper, I show that a large portion of this premium compensates banks for facilitating out-of-court restructurings. I estimate the loan premium and use a 2014 US court ruling, which impeded out-of-court restructurings, as a natural experiment. Following the ruling, affected firms experienced an 80–90 bps reduction in the loan premium, due to reduced restructuring opportunities and a diminished potential to avoid bankruptcy costs. These findings suggest that the renegotiation flexibility provided by banks is a key driver of the loan premium, highlighting the unique value that bank lending offers beyond the capital market.
 
 
 #### **Award: The Brattle Group Ph.D. Candidate Awards For Outstanding Research**
