@@ -1,6 +1,6 @@
 ## Job Market Paper
 
-[**The On-the-Run Discount**]({{ site.baseurl }}/files/JMP_Gao.pdf?v=20261028) (coauthored with Sven Klingler)
+[**The On-the-Run Discount**]({{ site.baseurl }}/files/JMP_Gao.pdf?v=20261102) (coauthored with Sven Klingler)
 
 The on-the-run premium is one of the most widely studied phenomena in fixed-income markets. Contrary to this phenomenon, we document that the most recently issued (on-the-run) Treasury bills trade at a *discount* relative to older bills of comparable maturities. We link this *on-the-run discount* to short sellers’ preference for seasoned bills, driven by the regular and predictable reopening auctions of Treasury bills. Borrowing demand for Treasury bills increases as they age and explains up to 71% of the variation in the on-the-run discount. The on-the-run discount affects the measurement of Treasury convenience premiums and the portfolio allocations of money market funds.
 
